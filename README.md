@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Igor Cesar 👋
 
 - 🔭 Estudante de programação.
-- 🌱 Atualmente estou aprendendo HMTL, CSS, JavaScript e ReactJS.
+- 🌱 Atualmente estou aprendendo HMTL, CSS, JavaScript e React.
 
 <div>
   <a href="https://github.com/IgorCCesar">
